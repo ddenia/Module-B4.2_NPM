@@ -1,0 +1,22 @@
+{
+  "name": "module-b4.2_npm",
+  "version": "1.0.0",
+  "description": "install packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddenia/Module-B4.2_NPM.git"
+  },
+  "author": "Ddenia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddenia/Module-B4.2_NPM/issues"
+  },
+  "homepage": "https://github.com/ddenia/Module-B4.2_NPM#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
